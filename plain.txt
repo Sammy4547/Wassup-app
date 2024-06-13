@@ -1,0 +1,7 @@
+Create npm project
+
+Create Index,Css,Js files
+
+Create a express server (server.js)
+
+do frontend part
